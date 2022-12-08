@@ -7,8 +7,7 @@
 <h3> Kelas : TI.21.B1 </h3>
 
 #Lab_10_php_oop
-
-![Lab_10_php_oop](https://imgur.com/undefined.png)
+![Lab10_php](https://imgur.com/RTlDRyo.png)
 
 
 # Langkah Pertama aktifkan dahulu XAMPP CONTROL
@@ -18,10 +17,10 @@
 
 
 #Langkah Selanjutnya buat file baru Lab10_php_oop dengan nama Form_php
-![Form_php](https://imgur.com/undefined.png)
+![Form_php](https://imgur.com/s3V7tDE.png)
 
 #Langkah Berikutnya buat file dengan nama mobile php
-![mobile_php](https://imgur.com/undefined.png)
+![Mobile_php](https://imgur.com/ZpSgSXg.png)
 
 #Langkah Selanjutnya yah lah buat file baru Form_input_php
 ![Form_input_php](https://imgur.com/e3RYMC5.png)
